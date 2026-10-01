@@ -1,23 +1,17 @@
-# AlgoFlix – OTT Platform using DSA
+# AlgoFlix – OTT Platform
 
-AlgoFlix is a team-based mini project that implements an OTT
-(Over-The-Top) platform using the C programming language and
-fundamental Data Structures and Algorithms.
+A team-based OTT platform mini project implemented in C using
+Data Structures and Algorithms.
 
-The project demonstrates how data structures can be used to
-organize and manage users, movies/content, and platform operations
-in an OTT-style application.
+## Overview
 
-## Features
+AlgoFlix is a menu-driven OTT platform application developed as
+part of a Data Structures and Algorithms mini project.
 
-- User management
-- Movie/content management
-- OTT platform-style navigation
-- Data organization using data structures
-- Search and management operations
-- Menu-driven C application
+The project demonstrates the use of C programming and data
+structures to implement OTT-style content and user operations.
 
-##  Technologies
+## Technologies
 
 - C
 - Data Structures
@@ -32,4 +26,4 @@ AlgoFlix-OTT-Platform/
 ├── AlgoFlix_Func.c
 ├── AlgoFlix_Main.c
 ├── README.md
-└── .gitignore
+└── screenshots/
